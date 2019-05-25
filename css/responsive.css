@@ -35,4 +35,7 @@
 
 @media phone and (max-width: 750px) {
   
+  #navbar nav a {
+    
+  }
 }

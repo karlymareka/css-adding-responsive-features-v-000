@@ -1,4 +1,4 @@
-@media small and (max-width: 1108px) {
+@media screen and (max-width: 1108px) {
   .wrapper {
     width: 90%;
   }
@@ -10,7 +10,7 @@
   }
 }
  
-@media tablet and (mad-width: 900px) {
+@media screen and (mad-width: 900px) {
   body {
     font-size: 85%;
   }
